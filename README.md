@@ -4,7 +4,7 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 ![image](https://github.com/user-attachments/assets/f7171233-8144-48b6-a56e-90304b376d14)
 
 
-## Challenge Alura - Amigo Secreto Tecnologías utilizadas
+## Tecnologías utilizadas
 HTML5: Estructura y contenido de la página.
 CSS3: Diseño y estilo visual.
 JavaScript: Funcionalidad para manejar la lógica del sorteo, agregar y eliminar participantes, y las validacion
