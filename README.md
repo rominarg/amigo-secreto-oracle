@@ -1,6 +1,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Frontend-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Fullstack-yellow)
 
 ## Challenge Alura - Amigo Secreto
 
