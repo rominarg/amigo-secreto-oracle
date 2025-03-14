@@ -15,11 +15,10 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 ![image](https://github.com/user-attachments/assets/5a26226e-17a6-4e4b-a548-3389280032ff)
 
 
-## 🚀Comenzando🚀  
-Sigue estos pasos para obtener una copia del proyecto y empezar a trabajar localmente.  
+## 🚀Ejecución en Local🚀   
 
-### 📋Pre-requisitos 📋  
-No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúrate de tener un navegador web como **Firefox**, **Chrome** o sus variaciones. Si trabajas con **Visual Studio Code**, puedes utilizar la extensión **Live Server** para una experiencia más fluida.  
+No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúrate de tener un navegador web como **Firefox**, **Chrome** o sus variaciones. 
+Si trabajas con **Visual Studio Code**, puedes utilizar la extensión **Live Server** para una experiencia más fluida.  
 
 ### 🔧Instalación 🔧  
 Clona el repositorio en tu máquina local:  
