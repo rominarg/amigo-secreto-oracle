@@ -8,7 +8,7 @@
 ## 📝Descripción del Proyecto
 
 Este es un proyecto de sorteo de "Amigo Secreto" desarrollado con **HTML, CSS y JavaScript**. La aplicación permite a los usuarios ingresar nombres en una lista, realizar un sorteo aleatorio y determinar quién es el "Amigo Secreto".  
-Los usuarios pueden:
+Los usuarios pueden:  
 ✅ Agregar nombres a través de un campo de texto y un botón "Añadir".  
 ✅ Visualizar la lista de participantes.  
 ✅ Realizar el sorteo y mostrar el resultado en pantalla.  
