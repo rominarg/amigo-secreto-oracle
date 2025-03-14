@@ -48,16 +48,6 @@ Para garantizar que el sorteo funcione correctamente y evitar errores, el proyec
 
 ![image](https://github.com/user-attachments/assets/5a26226e-17a6-4e4b-a548-3389280032ff)
 
-## 🔗 Acceso al Proyecto
-
-Para clonar este repositorio, usa el siguiente comando:
-
-```bash
-git clone https://github.com/rominarg/amigo_secreto_alura
-```
-
-## 🚀Ejecución en Local🚀   
-
 ## 🚀 Ejecución en Local  
 
 1. Clona el repositorio con:  
