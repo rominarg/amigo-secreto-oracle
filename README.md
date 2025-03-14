@@ -62,3 +62,11 @@ No necesitas herramientas adicionales para ejecutar este proyecto
 ##  📜 Licencia
 Este proyecto está bajo la licencia MIT.
 
+## 🎯 Conclusión  
+
+Este proyecto de **Amigo Secreto** ofrece una solución sencilla y efectiva para realizar sorteos de manera aleatoria y transparente. Gracias a las validaciones implementadas, se garantiza una experiencia de usuario sin errores y fácil de usar.  
+
+A futuro, se pueden incorporar mejoras como animaciones, opciones para compartir los resultados y la integración con un backend para almacenar sorteos previos.  
+
+¡Gracias por visitar este proyecto! Si te resultó útil, no dudes en darle una ⭐ en GitHub. 🚀  
+
