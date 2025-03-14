@@ -71,3 +71,19 @@ function sortearAmigo() {
         resultadoHTML.appendChild(listaResultado);
     }
 }
+
+function reiniciarJuego() {
+  // Limpiar la lista de amigos
+  amigos = [];
+  mostrarListaAmigo(); // Actualizar la lista visual
+
+  // Limpiar el resultado del sorteo
+  let resultadoHTML = document.querySelector("#resultado");
+  resultadoHTML.innerHTML = ""; // Vaciar el contenido de los resultados
+
+  // Limpiar el campo de entrada del nombre
+  document.querySelector("#amigo").value = "";
+
+  // Opcionalmente, podrías mostrar un mensaje de confirmación (alerta)
+  alert("El juego ha sido reiniciado. Puedes empezar de nuevo.");
+}

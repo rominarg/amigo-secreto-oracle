@@ -13,6 +13,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
 }
 
 body {
@@ -21,6 +23,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10px;
 }
 
 .main-content {
@@ -85,7 +88,7 @@ body {
     padding: 10px;
     border: 2px solid #000;
     border-radius: 25px 0 0 25px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .button-container {
@@ -97,7 +100,7 @@ body {
 .input-title {
     flex: 1;
     padding: 10px 15px;
-    font-size: 16px;
+    font-size: 20px;
     border: 2px solid #333;
     border-right: none;
     border-radius: 25px 0 0 25px;
@@ -136,7 +139,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #fe7300;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -159,4 +162,97 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+.button-reiniciar {
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 10px 40px;
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+    font-size: 16px;
+    margin-top: 3%;
+}
+
+/* Media queries para pantallas más pequeñas */
+@media (max-width: 480px) {
+    .header-banner {
+        display: block; 
+        text-align: center;
+    }
+
+    .main-title {
+        font-size: 32px;
+        font-weight: bold;
+        text-align: center;
+        white-space: normal;
+        overflow-wrap: break-word;
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+    .header-banner img {
+        display: block;
+        margin: 0 auto; 
+        max-width: 30%;
+        height: auto;
+    }
+    .section-title {
+        font-size: 8px;
+    }
+
+    .input-section {
+        flex: 70%;
+        padding: 15px;
+    }
+
+    .input-wrapper {
+        flex-direction: column;
+        max-width: 100%;
+    }
+
+    .input-name {
+        margin-bottom: 10px;
+    }
+
+    .button-container {
+        width: 80%;
+    }
+
+    .button-reiniciar,
+    .button-draw {
+        width: 80%;
+    }
+
+    ul {
+        font-size: 16px;
+    }
+
+    .result-list {
+        font-size: 18px;
+    }
+}
+
+
+/* Media queries - responsive */
+@media (max-width: 480px) {
+    .header-banner {
+        flex-direction: column-reverse; /* Imagen abajo, título arriba */
+        text-align: center;
+    }
+
+    .main-title {
+        font-size: 32px; 
+        font-weight: bold;
+        text-align: center;
+        white-space: normal;
+        overflow-wrap: break-word;
+        max-width: 100%;
+    }
+
+    .header-banner img {
+        max-width: 50%; 
+        height: auto;
+    }
 }
