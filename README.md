@@ -9,9 +9,9 @@
 
 Este es un proyecto de sorteo de "Amigo Secreto" desarrollado con **HTML, CSS y JavaScript**. La aplicación permite a los usuarios ingresar nombres en una lista, realizar un sorteo aleatorio y determinar quién es el "Amigo Secreto".  
 Los usuarios pueden:
-- Agregar nombres a través de un campo de texto y un botón "Añadir".  
-- Visualizar la lista de participantes.  
-- Realizar el sorteo y mostrar el resultado en pantalla.  
+✅ Agregar nombres a través de un campo de texto y un botón "Añadir".  
+✅ Visualizar la lista de participantes.  
+✅ Realizar el sorteo y mostrar el resultado en pantalla.  
 
 ![image](https://github.com/user-attachments/assets/f7171233-8144-48b6-a56e-90304b376d14)
 
@@ -38,8 +38,6 @@ Para garantizar que el sorteo funcione correctamente y evitar errores, el proyec
 ## 🎥 Demostración de funciones y aplicaciones
 
 👉 **[Ver el proyecto en GitHub Pages](https://rominarg.github.io/amigo_secreto_alura/)**
-
-![image](https://github.com/user-attachments/assets/f7171233-8144-48b6-a56e-90304b376d14)
 
 ## 🛠 Tecnologías utilizadas
 - **HTML5**  
