@@ -11,7 +11,7 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 ![image](https://github.com/user-attachments/assets/f7171233-8144-48b6-a56e-90304b376d14)
 
-## Challenge Alura - Estructura de carpetas
+## Estructura de carpetas
 ![image](https://github.com/user-attachments/assets/5a26226e-17a6-4e4b-a548-3389280032ff)
 
 
