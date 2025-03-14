@@ -58,9 +58,17 @@ git clone https://github.com/rominarg/amigo_secreto_alura
 
 ## 🚀Ejecución en Local🚀   
 
-No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúrate de tener un navegador web como **Firefox**, **Chrome** o sus variaciones. 
-Si trabajas con **Visual Studio Code**, puedes utilizar la extensión **Live Server** para una experiencia más fluida.  
+## 🚀 Ejecución en Local  
 
+1. Clona el repositorio con:  
+   ```bash
+   git clone https://github.com/rominarg/amigo_secreto_alura
+   ```
+No necesitas herramientas adicionales para ejecutar este proyecto 
+
+2. Abre el archivo index.html en tu navegador.
+3. (Opcional) Si usas Visual Studio Code, instala la extensión Live Server para una mejor experiencia.
+ 
 ##  📜 Licencia
 Este proyecto está bajo la licencia MIT.
 
