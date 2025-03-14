@@ -7,9 +7,11 @@
 
 ## 📝Descripción del Proyecto
 
-Este es un proyecto de sorteo de "Amigo Secreto" desarrollado con HTML, CSS y JavaScript. Permite ingresar nombres y generar un sorteo aleatorio para emparejar a los participantes.## Challenge Alura - 🙈Amigo Secreto🙈
-
-Este desafío consiste en una aplicación que permite a los usuarios ingresar nombres de amigos en una lista, realizar un sorteo aleatorio y determinar quién es el "Amigo Secreto". Los usuarios pueden agregar nombres a través de un campo de texto y un botón "Añadir", visualizar la lista y, finalmente, hacer clic en "Sortear Amigo" para seleccionar un nombre aleatorio, mostrando el resultado en pantalla.
+Este es un proyecto de sorteo de "Amigo Secreto" desarrollado con **HTML, CSS y JavaScript**. La aplicación permite a los usuarios ingresar nombres en una lista, realizar un sorteo aleatorio y determinar quién es el "Amigo Secreto".  
+Los usuarios pueden:
+- Agregar nombres a través de un campo de texto y un botón "Añadir".  
+- Visualizar la lista de participantes.  
+- Realizar el sorteo y mostrar el resultado en pantalla.  
 
 ![image](https://github.com/user-attachments/assets/f7171233-8144-48b6-a56e-90304b376d14)
 
@@ -25,13 +27,13 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 Para garantizar que el sorteo funcione correctamente y evitar errores, el proyecto incluye las siguientes validaciones:
 
-✅ No se pueden ingresar nombres vacíos o con solo espacios.
-✅ El nombre debe tener al menos 3 caracteres.
-✅ No se pueden agregar nombres duplicados.
-✅ No se pueden agregar más de 5 participantes.
-✅ Debe haber al menos 2 participantes para iniciar el sorteo.
-✅ El sorteo selecciona aleatoriamente un participante de la lista.
-✅ El botón "Reiniciar" limpia la lista y permite comenzar de nuevo.
+✅ No se pueden ingresar nombres vacíos o con solo espacios.  
+✅ El nombre debe tener al menos 3 caracteres.  
+✅ No se pueden agregar nombres duplicados.  
+✅ No se pueden agregar más de 5 participantes.  
+✅ Debe haber al menos 2 participantes para iniciar el sorteo.  
+✅ El sorteo selecciona aleatoriamente un participante de la lista.  
+✅ El botón "Reiniciar" limpia la lista y permite comenzar de nuevo.  
 
 ## 🎥 Demostración de funciones y aplicaciones
 
@@ -54,6 +56,7 @@ Para clonar este repositorio, usa el siguiente comando:
 
 ```bash
 git clone https://github.com/rominarg/amigo_secreto_alura
+```
 
 ## 🚀Ejecución en Local🚀   
 
