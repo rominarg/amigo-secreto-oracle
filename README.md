@@ -37,7 +37,7 @@ Para garantizar que el sorteo funcione correctamente y evitar errores, el proyec
 
 ## 🎥 Demostración de funciones y aplicaciones
 
-👉 **[Ver el proyecto en GitHub Pages](https://rominarg.github.io/amigo_secreto_alura/)**
+👉 **[Ver el proyecto en GitHub Pages](https://rominarg.github.io/amigo-secreto-oracle/)**
 
 ## 🛠 Tecnologías utilizadas
 - **HTML5**  
